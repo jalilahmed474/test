@@ -9,6 +9,7 @@
 <!-- partial:index.partial.html -->
 <div id="bg"></div>
 
+<!-- this is for the form action-->
 <form action="login2.php" method="post">
 
   <h2>LOGIN</h2>
